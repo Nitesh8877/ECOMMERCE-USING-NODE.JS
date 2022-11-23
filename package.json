@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "This is my ecommerce project usign node js and exress js ",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitesh8877/ECOMMERCE-USING-NODE.JS.git"
+  },
+  "author": "~Er Nitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitesh8877/ECOMMERCE-USING-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/Nitesh8877/ECOMMERCE-USING-NODE.JS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.25.8"
+  }
+}
